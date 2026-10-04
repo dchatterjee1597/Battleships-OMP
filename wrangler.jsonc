@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "battleships-omp-v1",
+  "main": "src/server/index.ts",
+  "compatibility_date": "2026-10-02",
+  "compatibility_flags": ["nodejs_compat"],
+  "secrets": { "required": ["INVITE_TOKEN", "ADMIN_PASSPHRASE"] },
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": true,
+  },
+  "durable_objects": { "bindings": [{ "name": "ROOM", "class_name": "BattleshipsRoom" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["BattleshipsRoom"] }],
+  "observability": { "enabled": true, "head_sampling_rate": 0.1 },
+}

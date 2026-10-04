@@ -1,0 +1,38 @@
+{
+  "capturedAt": "2026-10-03T07:19:35.553Z",
+  "baseURL": "http://127.0.0.1:8788",
+  "desktop": {
+    "width": 1440,
+    "height": 1000
+  },
+  "mobile": {
+    "width": 390,
+    "height": 844
+  },
+  "fullPage": true,
+  "approved": [
+    "Maya",
+    "Arjun",
+    "Shore",
+    "Leena"
+  ],
+  "pending": [],
+  "activeCaptain": "Arjun",
+  "matchShots": 14,
+  "publicSunkShips": [
+    "destroyer (vertical)",
+    "cruiser (horizontal)"
+  ],
+  "partialHitRemainsHidden": true,
+  "selectedTargets": [
+    "C1",
+    "D1",
+    "E1"
+  ],
+  "spectators": [
+    "Shore",
+    "Leena"
+  ],
+  "privacyVerified": true,
+  "pageErrors": []
+}

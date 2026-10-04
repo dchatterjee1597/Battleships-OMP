@@ -1,0 +1,11 @@
+[
+  {
+    "job": "cold-war-ops-room/mobile-match.png",
+    "reason": "Correct duplicated second row label in the enemy grid after the composition refinement.",
+    "tool": "image_gen.imagegen",
+    "reference": "design-review/cold-war-ops-room/mobile-match.png",
+    "prompt": "Use case: ui-mockup, precise correction to the supplied finished Cold War Tideline mobile match UI. Change ONLY the erroneous left-side row number on the SECOND row of the TOP / ENEMY grid: it currently reads 3 and must read 2. The top grid row labels from top to bottom must be exactly 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, one label per row. Preserve absolutely everything else pixel-faithfully: same full portrait canvas, colors, typography, backgrounds, content, margins, two grids, ships, shot marks, selected targets, crew, spectators, controls, signal log, footer and Fire Salvo dock. No new layout, no restyling, no other text changes or changed fleet geometry.",
+    "transparent_background": false,
+    "applyOnlyIfDefectPresent": true
+  }
+]

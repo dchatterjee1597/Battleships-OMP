@@ -1,0 +1,58 @@
+[
+  {
+    "file": "final-tabletop-implementation/desktop-admin.png",
+    "width": 1440,
+    "height": 1243,
+    "bytes": 402365,
+    "sha256": "4f75df0f5bfe0fd4e39428f4fa68412f2b249a2d067b808b04c925a7e63d5c8f"
+  },
+  {
+    "file": "final-tabletop-implementation/desktop-lobby.png",
+    "width": 1440,
+    "height": 1079,
+    "bytes": 436766,
+    "sha256": "100a3691c3d0d5a28df525fc255085c4f1fc82012e71c5843bd5666b37381ca8"
+  },
+  {
+    "file": "final-tabletop-implementation/desktop-placement.png",
+    "width": 1440,
+    "height": 1145,
+    "bytes": 429243,
+    "sha256": "d1220f80ff27cddac4f5d40d974aab72f6d6f02b891745c5072f01d7d87e9517"
+  },
+  {
+    "file": "final-tabletop-implementation/desktop-match.png",
+    "width": 1440,
+    "height": 1733,
+    "bytes": 581234,
+    "sha256": "ae51a65e7740197f2a28c0b1e9b4651dac655c85a948591b91f331b8eceddf45"
+  },
+  {
+    "file": "final-tabletop-implementation/mobile-admin.png",
+    "width": 390,
+    "height": 1759,
+    "bytes": 199304,
+    "sha256": "18e7e91a02b07729e09d5ea8df48ce20a56e8e367c9f68602a2f1b2808bae9e8"
+  },
+  {
+    "file": "final-tabletop-implementation/mobile-lobby.png",
+    "width": 390,
+    "height": 1161,
+    "bytes": 194445,
+    "sha256": "b60eb9f53259e221a5a58402507cf96f5057c1cbf57f95a7c1ae07474a69d83b"
+  },
+  {
+    "file": "final-tabletop-implementation/mobile-placement.png",
+    "width": 390,
+    "height": 1543,
+    "bytes": 194703,
+    "sha256": "a2dc38760fd1f209ed2b156b6572cbf5695c8e8143afbc53fe90e6af6128a2e8"
+  },
+  {
+    "file": "final-tabletop-implementation/mobile-match.png",
+    "width": 390,
+    "height": 2266,
+    "bytes": 208448,
+    "sha256": "6ce65741d917a85b260090abb6b3a88caf12b53b030bdb72975637152db31b7d"
+  }
+]

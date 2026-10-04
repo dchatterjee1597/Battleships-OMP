@@ -1,0 +1,128 @@
+[
+  {
+    "file": "baseline-screenshots/desktop-admin.png",
+    "width": 1440,
+    "height": 1236,
+    "bytes": 76280,
+    "sha256": "c176378e4ee2f548492f77531b06329e95e85c1bc87519275bd2de394170bb30"
+  },
+  {
+    "file": "baseline-screenshots/desktop-lobby.png",
+    "width": 1440,
+    "height": 1079,
+    "bytes": 124954,
+    "sha256": "ebaf0b61c1270d37daf8c16176ebdba8597077ae21fc313c092437c7eadebcd4"
+  },
+  {
+    "file": "baseline-screenshots/desktop-match.png",
+    "width": 1440,
+    "height": 1733,
+    "bytes": 106379,
+    "sha256": "edd502b74fb7db8a88a044729de3590f28ae7f29915c72b0be1b8a60d103e9bc"
+  },
+  {
+    "file": "baseline-screenshots/mobile-admin.png",
+    "width": 390,
+    "height": 1752,
+    "bytes": 71999,
+    "sha256": "2845def17198ee6d7f3645b8f3d9a67d8c034c4f68fb622eba478ae942205cdf"
+  },
+  {
+    "file": "baseline-screenshots/mobile-lobby.png",
+    "width": 390,
+    "height": 1161,
+    "bytes": 68980,
+    "sha256": "1c24380b6b93de06a35c1ea76457aa984c079e90c1eadbeb354a5c916f09d945"
+  },
+  {
+    "file": "baseline-screenshots/mobile-match.png",
+    "width": 390,
+    "height": 2266,
+    "bytes": 77863,
+    "sha256": "c1e5c9df334360bf82befc3ce5c84eae35280d80123dc1f7496a66c90ef2c17e"
+  },
+  {
+    "file": "cold-war-ops-room/desktop-admin.png",
+    "width": 1354,
+    "height": 1162,
+    "bytes": 1344030,
+    "sha256": "06f246ed8d9d3142ef122fc96105b03e2b96eb2d9745895e6fd6af1c25d7fb8f"
+  },
+  {
+    "file": "cold-war-ops-room/desktop-lobby.png",
+    "width": 1449,
+    "height": 1085,
+    "bytes": 1417730,
+    "sha256": "7ff6b8f441760eac311fe4faf262be3cf1887e8aa3823a8b9e239bd844a5c68b"
+  },
+  {
+    "file": "cold-war-ops-room/desktop-match.png",
+    "width": 1144,
+    "height": 1375,
+    "bytes": 1416284,
+    "sha256": "d569e267300b4f45755559f4b395020400671156a22f418e84c5572ad2e31a8a"
+  },
+  {
+    "file": "cold-war-ops-room/mobile-admin.png",
+    "width": 724,
+    "height": 2171,
+    "bytes": 1302528,
+    "sha256": "715991163c521e74ae22cb43e04249cf1c6dec00bc3ba7264af39bce28ab7403"
+  },
+  {
+    "file": "cold-war-ops-room/mobile-lobby.png",
+    "width": 727,
+    "height": 2164,
+    "bytes": 1367649,
+    "sha256": "dbdbc066ffacddd9120b02d64d64c034a877215fb5b24e7af3dd3b0535515fa8"
+  },
+  {
+    "file": "cold-war-ops-room/mobile-match.png",
+    "width": 727,
+    "height": 2163,
+    "bytes": 1345102,
+    "sha256": "23241cd12aee73ddefda94e22c2685dcbf3055c277fc1a3936edae701bc8e2f0"
+  },
+  {
+    "file": "premium-tabletop-strategy/desktop-admin.png",
+    "width": 1353,
+    "height": 1162,
+    "bytes": 2028601,
+    "sha256": "70671cae0d385fdbcfdd7f9482ea6dfd18bbb4aaaa763caad5bd720747ca8b29"
+  },
+  {
+    "file": "premium-tabletop-strategy/desktop-lobby.png",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 2083137,
+    "sha256": "2e297911fb136cc0dd0ef36f60cf6e653cd7b5818723751fc4eb0446de55c4c2"
+  },
+  {
+    "file": "premium-tabletop-strategy/desktop-match.png",
+    "width": 1143,
+    "height": 1376,
+    "bytes": 1938255,
+    "sha256": "b831fbefae815d4d7fbab9d6c1cf063bf9bdde358fb34e51443fbdf4f97f8cfc"
+  },
+  {
+    "file": "premium-tabletop-strategy/mobile-admin.png",
+    "width": 724,
+    "height": 2171,
+    "bytes": 1913838,
+    "sha256": "c81e2a62a2e2b1e8141c876db1162fb4db37e8e93912e15ea7f144138ee6ec15"
+  },
+  {
+    "file": "premium-tabletop-strategy/mobile-lobby.png",
+    "width": 727,
+    "height": 2164,
+    "bytes": 2003960,
+    "sha256": "3bbfbecf9ccff8022d542876ebe24821c741ce02470cec8e7d4b719cc89daf11"
+  },
+  {
+    "file": "premium-tabletop-strategy/mobile-match.png",
+    "width": 726,
+    "height": 2166,
+    "bytes": 2021882,
+    "sha256": "c76cd940f6194753c03f29a6f80343a9ccb550dd2f98845c5f572d8fb75e835e"
+  }
+]

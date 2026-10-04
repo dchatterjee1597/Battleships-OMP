@@ -1,0 +1,36 @@
+{
+  "capturedAt": "2026-10-03T01:06:57.074Z",
+  "baseURL": "http://127.0.0.1:8788",
+  "desktop": {
+    "width": 1440,
+    "height": 1000
+  },
+  "mobile": {
+    "width": 390,
+    "height": 844
+  },
+  "fullPage": true,
+  "approved": [
+    "Maya",
+    "Arjun",
+    "Shore",
+    "Leena"
+  ],
+  "pending": [
+    "Nikhil",
+    "Sana"
+  ],
+  "activeCaptain": "Arjun",
+  "matchShots": 12,
+  "selectedTargets": [
+    "C1",
+    "D1",
+    "E1"
+  ],
+  "spectators": [
+    "Shore",
+    "Leena"
+  ],
+  "privacyVerified": true,
+  "pageErrors": []
+}

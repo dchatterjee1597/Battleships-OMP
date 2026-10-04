@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1500" viewBox="0 0 1600 1500">
+  <!-- Original decorative vessel plan and compass engraving; no game data. -->
+  <g fill="none" stroke="#9d824e" stroke-width="1" opacity=".16">
+    <g transform="translate(40 125)">
+      <path d="M85 0Q10 130 10 260v360l20 80h130l20-80V260Q160 130 85 0Z"/>
+      <path d="M85 24Q25 145 25 265v347l16 72h88l16-72V265Q145 145 85 24Z"/>
+      <path d="M85 0v720M0 255h170M0 620h170M-15 350h200M-15 530h200" stroke-dasharray="5 5"/>
+      <rect x="57" y="270" width="56" height="140" rx="8"/><rect x="68" y="288" width="34" height="74"/>
+      <path d="M44 245h82M42 430h86M42 460h86M42 490h86M42 520h86M42 550h86M42 580h86"/>
+      <circle cx="85" cy="176" r="25"/><circle cx="85" cy="640" r="25"/>
+      <path d="M77 176v-55M93 176v-55M77 640v-53M93 640v-53M-30 0v700M-36 0h12M-36 700h12M15 733h140M15 727v12M155 727v12"/>
+    </g>
+    <g transform="translate(1510 300)">
+      <circle r="135"/><circle r="125"/><circle r="95"/>
+      <path d="M0-170V170M-170 0h340M-120-120l240 240M-120 120l240-240"/>
+      <path d="M0-120L13-13L120 0L13 13L0 120L-13 13L-120 0L-13-13Z"/>
+      <path d="M0-120L-13-13L0 0ZM120 0L13 13L0 0ZM0 120L13 13L0 0ZM-120 0L-13-13L0 0Z" fill="#9d824e"/>
+      <circle r="6"/>
+    </g>
+    <path d="M-150 1200L220 830M-140 1220L240 840M-130 1240L260 850M-120 1260L280 860"/>
+    <path d="M1370 850L1670 1150M1350 860L1670 1180" stroke-dasharray="5 7"/>
+    <circle cx="1600" cy="1500" r="500"/><circle cx="1600" cy="1500" r="525"/>
+  </g>
+</svg>
